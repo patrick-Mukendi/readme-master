@@ -12,7 +12,7 @@ And... I create online courses in french to help developers to master modern web
 * [Linkedin](https://mlv.sh/linkedin)
 * [Thread](https://mlv.sh/thread)
 
-### My projects
+### My projects 
 
 * [Melvynx](https://mlv.sh)
 

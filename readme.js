@@ -62,3 +62,4 @@ Last update on <#today_date>
 
 <#gabot_signing>
 `;
+ 
